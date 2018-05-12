@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31602
     wikipedia: http://en.wikipedia.org/wiki/Ellen_G._White
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25833#The-Great-Controversy-Between-Christ-and-Satan
 gutenberg_issued: '2008-06-19'
 gutenberg_type: Text
 identifiers:
