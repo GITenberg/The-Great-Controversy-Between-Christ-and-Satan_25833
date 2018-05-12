@@ -1,0 +1,30 @@
+_repo: The-Great-Controversy-Between-Christ-and-Satan_25833
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: White, Ellen Gould Harmon
+    alias: White, Ellen G. (Ellen Gould)
+    birthdate: 1827
+    deathdate: 1915
+    gutenberg_agent_id: '31602'
+    url: http://www.gutenberg.org/2009/agents/31602
+    wikipedia: http://en.wikipedia.org/wiki/Ellen_G._White
+description: ''
+gutenberg_issued: '2008-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25833'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Good and evil'
+- !lcsh 'Spiritual direction'
+- !lcsh 'Seventh-Day Adventists -- Doctrines'
+- !lcc 'BX'
+title: The Great Controversy Between Christ and Satan
+url: http://www.gutenberg.org/ebooks/25833
